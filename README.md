@@ -1,7 +1,10 @@
 # ButchersKitchen
-Pagina de recetas de cocina: /br
-Grupo: FastFive /br
-Materia: Programacion IV /br
+Pagina de recetas de cocina:
+
+Grupo: FastFive
+
+Materia: Programacion IV
+
 Integrantes: 
 * Azzetti, Franco
 * Contreras, Facundo
